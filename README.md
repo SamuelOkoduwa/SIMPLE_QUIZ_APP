@@ -14,15 +14,15 @@ The Simple Quiz App is a basic web-based application designed to present users w
 -	**JavaScript:** A programming language used to implement the interactive elements of the application. JavaScript handles the quiz logic, processes user input, and updates the content dynamically.
 
 ##	Features
-**Multiple Choice Questions:** The quiz presents users with a series of multiple-choice questions.
-**Interactive Buttons:** Users can select their answers by clicking on buttons.
-**Score Calculation:** The application calculates the user's score based on their answers and displays it at the end.
+-	**Multiple Choice Questions:** The quiz presents users with a series of multiple-choice questions.
+-	**Interactive Buttons:** Users can select their answers by clicking on buttons.
+-	**Score Calculation:** The application calculates the user's score based on their answers and displays it at the end.
 
-**File Structure**
-**index.html:** The home page route that links the quiz app
-**quiz.html:** The main HTML file that contains the structure of the quiz app.
-**styles.css:** The CSS file that contains the styling rules for the quiz app.
-**quiz.js:** The JavaScript file that contains the logic for the quiz app.
+##	File Structure**
+-	**index.html:** The home page route that links the quiz app
+-	**quiz.html:** The main HTML file that contains the structure of the quiz app.
+-	**styles.css:** The CSS file that contains the styling rules for the quiz app.
+-	**quiz.js:** The JavaScript file that contains the logic for the quiz app.
 
 ##	How to Use
 -	Open the index.html file in a web browser or click on [here](https://sample-quiz-app.vercel.app/)
